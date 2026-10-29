@@ -1,0 +1,17 @@
+# build output
+*.obj
+*.exe
+*.pdb
+*.ilk
+app.res
+obj/
+build/
+.vs/
+
+# launcher runtime data (generated next to the exe, do not commit)
+vortex_launcher.conf
+launcher_profiles.json
+launcher_log.txt
+launch_command.txt
+.minecraft/
+logs/
